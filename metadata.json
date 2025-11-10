@@ -1,0 +1,5 @@
+{
+  "name": "Life B356/S2",
+  "description": "A high-performance simulation of a custom variant of Conway's Game of Life. This modification uses the b356/s2 rules with a custom 10-cell neighborhood, aiming for extremely fast generation calculations.",
+  "requestFramePermissions": []
+}
